@@ -10,12 +10,11 @@ func sum(a int, b int) int {
 	return a + b
 }
 
-/*
-
 func sub(a int, b int) int {
 	return a - b
 }
 
+/*  Comentado para Teste Sonar
 func times(a int, b int) int {
 	return a * b
 }
