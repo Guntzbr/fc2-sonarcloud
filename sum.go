@@ -14,6 +14,7 @@ func sub(a int, b int) int {
 	return a - b
 }
 
+/*  Comentado para Teste Sonar
 func times(a int, b int) int {
 	return a * b
 }
@@ -21,3 +22,4 @@ func times(a int, b int) int {
 func division(a int, b int) int {
 	return a / b
 }
+*/
