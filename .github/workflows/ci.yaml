@@ -2,10 +2,10 @@ name: ci-sonarcloud
 on:
   pull_request:
     branches:
-      - develop
+      - develop 
 
 jobs:
-  run-ci:
+  check-application:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
